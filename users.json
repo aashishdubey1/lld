@@ -1,0 +1,77 @@
+[
+ {
+  "Name": "Aashish",
+  "Age": 23,
+  "Email": "aashish@gmail.com"
+ },
+ {
+  "Name": "Rahul",
+  "Age": 27,
+  "Email": "rahul.sharma@gmail.com"
+ },
+ {
+  "Name": "Priya",
+  "Age": 21,
+  "Email": "priya.singh@gmail.com"
+ },
+ {
+  "Name": "Vikram",
+  "Age": 35,
+  "Email": "vikram.verma@gmail.com"
+ },
+ {
+  "Name": "Sneha",
+  "Age": 29,
+  "Email": "sneha.kumar@gmail.com"
+ },
+ {
+  "Name": "Aman",
+  "Age": 19,
+  "Email": "aman.raj@gmail.com"
+ },
+ {
+  "Name": "Neha",
+  "Age": 31,
+  "Email": "neha.patel@gmail.com"
+ },
+ {
+  "Name": "Rohit",
+  "Age": 26,
+  "Email": "rohit.mehta@gmail.com"
+ },
+ {
+  "Name": "Ananya",
+  "Age": 24,
+  "Email": "ananya.jain@gmail.com"
+ },
+ {
+  "Name": "Karan",
+  "Age": 42,
+  "Email": "karan.mishra@gmail.com"
+ },
+ {
+  "Name": "Pooja",
+  "Age": 38,
+  "Email": "pooja.gupta@gmail.com"
+ },
+ {
+  "Name": "Arjun",
+  "Age": 28,
+  "Email": "arjun.singh@gmail.com"
+ },
+ {
+  "Name": "Simran",
+  "Age": 22,
+  "Email": "simran.khan@gmail.com"
+ },
+ {
+  "Name": "Manish",
+  "Age": 45,
+  "Email": "manish.yadav@gmail.com"
+ },
+ {
+  "Name": "Riya",
+  "Age": 18,
+  "Email": "riya.verma@gmail.com"
+ }
+]
